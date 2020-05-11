@@ -1,4 +1,4 @@
-# Go-Stop
+# Govid-19
 A people counter that helps users social distance
 
 In order to make this counter you need to set up connect a Microbit to a PIR motion sensor. 
